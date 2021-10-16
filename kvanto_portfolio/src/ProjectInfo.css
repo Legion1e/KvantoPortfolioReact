@@ -10,5 +10,9 @@
 }
 
 .ProjectBox {
-    
+    height: 250px;
+    width: 30%;
+    align-content: center;
+    border: 2px solid rgb(10, 183, 226);
+    display: inline-block;
 }
